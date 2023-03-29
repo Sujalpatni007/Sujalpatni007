@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**Sujalpatni007/Sujalpatni007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://twitter.com/SujalTweetsShit" target="_blank">
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right">
