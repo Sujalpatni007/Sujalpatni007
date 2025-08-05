@@ -11,15 +11,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in BMSIT
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Businesses
+- 🔭 I’m currently studying in B.e. Aiml, BMSIT
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on Building Projects
 - 💬 Ask me about anything
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: He Obviously
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Look up!
 
-<h2 align="left"> I convert Caffeine into Code! </h2>
+<h2 align="left"> Caffeine and Code! </h2>
 
 ###
 
